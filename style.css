@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.task {
+  color: red;
+}
+
+.header {
+  height: 3rem;
+  width: 50vw;
+  background-color: orange;
+  color: white;
+  font-size: larger;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#root {
+  width: 30vw;
+  margin-top: 30px;
+  margin: 20px;
+}
+
+.taskslist {
+  width: 30vw;
+  background-color: orange;
+}
